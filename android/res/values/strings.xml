@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, fsx!</string>
+    <string name="app_name">fsx</string>
+<string name="buttonHandler">myClickHandler</string>
+
+
+<string name="change_display_mode">Change Map Mode</string>
+<string name="settings">Settings</string>
+<string name="quit">Quit</string>
+<string name="show_route">Show Route</string>
+</resources>
