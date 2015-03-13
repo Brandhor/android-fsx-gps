@@ -1,0 +1,1 @@
+A software that allows to use an android device as a GPS for Flight Simulator X
